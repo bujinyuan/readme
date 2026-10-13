@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border‑box;
+}
+body{
+    background:#f0f4f8;
+    font‑family: "Microsoft Yahei",sans‑serif;
+    padding:40px 20px;
+}
+.container{
+    max‑width:700px;
+    margin:0 auto;
+}
+.card{
+    background:white;
+    padding:40px;
+    border‑radius:12px;
+    box‑shadow:0 2px 12px #00000018;
+}
+h1{
+    color:#222;
+    margin‑bottom:8px;
+}
+.info{
+    color:#666;
+    margin‑bottom:24px;
+}
+h2{
+    margin:24px 0 12px;
+    color:#2c3e50;
+}
+ul{
+    padding‑left:22px;
+    line‑height:1.8;
+}
+p{
+    line‑height:1.7;
+    color:#333;
+}
